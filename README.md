@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/wiBqjIF.jpeg" alt="Banner" style="width: 100%; height: 200px;">
+<img src="https://i.imgur.com/eJttHI0.jpeg" alt="Banner" style="width: 100%; height: 400px;">
 
 
 👋 Hi, I’m @Neha-Gi
