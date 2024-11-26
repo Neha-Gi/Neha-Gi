@@ -1,4 +1,5 @@
-<div style="background-image: url('https://i.imgur.com/wiBqjIF.jpeg'); background-size: cover; height: 100vh; color: white; text-align: center; padding: 20px;">
+![Banner](https://i.imgur.com/wiBqjIF.jpeg)
+
 👋 Hi, I’m @Neha-Gi
 
 👀 I’m passionate about Python programming.
