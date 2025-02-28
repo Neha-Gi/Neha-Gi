@@ -1,33 +1,41 @@
 <img src="https://i.imgur.com/eJttHI0.jpeg" alt="Banner" style="width: 100%; height: 400px;">
 
 
-👋 Hi, I’m @Neha-Gi
+# 👋 Hi, I'm Neha Girme!  
+🚀 **Python Developer | Data Enthusiast | Lifelong Learner**  
 
-👀 I’m passionate about Python programming.
-
-
-
-🌱 I’m currently diving deep into Python, mastering testing (TDD), debugging, 
-and various frameworks. I'm also learning about databases with SQL, Django ORM, 
-and addressing the n+1 query problem. Additionally, I'm exploring web application 
-development using Django, logging, and the Django REST Framework. My studies also 
-cover consuming and producing APIs, emphasizing service-to-service communication. 
-Furthermore, I'm gaining insights into cloud computing fundamentals with AWS and GCP.
+## 👀 About Me  
+I'm passionate about **Python programming** and enjoy solving complex problems with code.  
 
 
-💞️ I’m looking to collaborate on Python-based projects focusing on data analysis.
- 
-📫 How to reach me: Message me here on GitHub or connect on LinkedIn.
+## 🛠️ Technologies I've Learned  
+✔ **Python** – Writing clean, efficient, and scalable code  
+✔ **Django** – Web application development & APIs  
+✔ **Django REST Framework** – Building and consuming RESTful APIs  
+✔ **PostgreSQL & SQL** – Writing and optimizing database queries  
+✔ **Git & GitHub** – Version control and collaboration  
+✔ **Testing (pytest, TDD)** – Writing test cases and debugging efficiently  
+✔ **Logging & Monitoring** – Improving application observability  
+✔ **Cloud Basics (AWS, GCP)** – Learning cloud infrastructure & services  
 
-😄 Pronouns: She/Her
+## 💡 What I’m Looking For  
+💞️ I’d love to **collaborate on Python-based projects** related to **data analysis and backend development**.  
 
-⚡ Fun fact: I love exploring hiking trails and discovering nature's gems.
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
+## 📫 Connect With Me  
+🔗 [LinkedIn](linkedin.com/in/nehabaravkar)  
+📧 Message me here on GitHub!  
 
+## ⚡ Fun Fact  
+I love **hiking** and discovering nature’s hidden gems! 🏔️🌿  
 
+---
+⭐ **If you like my work, consider giving my repositories a star!**  
 
-
-<!---
-Neha-Gi/Neha-Gi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
