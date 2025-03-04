@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/eJttHI0.jpeg" alt="Banner" style="width: 100%; height: 600px;">
+![image](https://github.com/user-attachments/assets/26464540-137b-43bc-8d21-1de66f5278a3)
 
 
 # 👋 Hi, I'm Neha Girme!  
