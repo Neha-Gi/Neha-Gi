@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/eJttHI0.jpeg" alt="Banner" style="width: 100%; height: 400px;">
+<img src="https://i.imgur.com/eJttHI0.jpeg" alt="Banner" style="width: 100%; height: 600px;">
 
 
 # 👋 Hi, I'm Neha Girme!  
