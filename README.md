@@ -30,7 +30,8 @@ I'm passionate about **Python programming** and enjoy solving complex problems w
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
 ## 📫 Connect With Me  
-🔗 [LinkedIn](linkedin.com/in/nehabaravkar)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nehabaravkar/)
+
 📧 Message me here on GitHub!  
 
 ## ⚡ Fun Fact  
