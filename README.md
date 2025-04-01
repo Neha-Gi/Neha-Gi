@@ -2,7 +2,7 @@
 
 
 # 👋 Hi, I'm Neha Girme!  
-🚀 **Python Developer | Data Enthusiast | Lifelong Learner**  
+🚀 **Python Developer | Lifelong Learner**  
 
 ## 👀 About Me  
 I'm passionate about **Python programming** and enjoy solving complex problems with code.  
@@ -12,6 +12,7 @@ I'm passionate about **Python programming** and enjoy solving complex problems w
 ✔ **Python** – Writing clean, efficient, and scalable code  
 ✔ **Django** – Web application development & APIs  
 ✔ **Django REST Framework** – Building and consuming RESTful APIs  
+✔ **FastAPI** – High-performance REST APIs with async support
 ✔ **PostgreSQL & SQL** – Writing and optimizing database queries  
 ✔ **Git & GitHub** – Version control and collaboration  
 ✔ **Testing (pytest, TDD)** – Writing test cases and debugging efficiently  
